@@ -6,3 +6,4 @@
   
 ## Training set--
 
+![kernelsvm-training](https://user-images.githubusercontent.com/40026126/44164885-e03ecd80-a0e4-11e8-8ed7-15690397f17a.PNG)
